@@ -7,12 +7,11 @@
  <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 
-<img align="left" src="https://camo.githubusercontent.com/79c0410bf0683e6d0fc0a09ce3fb76b1fb6811f37867b5485feb504d38990e1f/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966" width="265" height="270" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teddyjm7&label=Profile%20views&color=0e75b6&style=flat" alt="teddyjm7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddyjm7" alt="teddyjm7" /></a> </p>
+
+</a> </p>
 
 - 📫 How to reach me **marasinghebuddhika7@gmail.com**
 
@@ -36,12 +35,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
 
 <p align="center">
-   <img align='center' src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
+   <img src="https://github.com/user-attachments/assets/b975b3cf-f9b3-4caf-8b94-51a15182d123" width="500" height="300" alt="Jim Carrey Reaction GIF" />
    <br>
-   <i>Dont Waste Time get back to work.</i>
-   <br>
-<br>	
-
+   <i>Ok , it's back to work!.</i>
+</p>
+  
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
